@@ -21,7 +21,6 @@
             <artifactId>fastjson</artifactId>
         </dependency>
 
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -31,8 +30,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
-
 
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
@@ -54,7 +51,6 @@
             <artifactId>commons-codec</artifactId>
         </dependency>
 
-
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>dubbo</artifactId>
@@ -75,8 +71,6 @@
             <groupId>com.gitee.reger</groupId>
             <artifactId>spring-boot-starter-dubbo</artifactId>
         </dependency>
-
-
 
     </dependencies>
 
